@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Cherry+Cream+Soda&display=swap');
+
+html, body{
+  margin: 0;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  background-color: #222222;
+}
+
+.container{
+  background: url("uyi.jpg");
+  background-size: 320px 320px;
+  text-align: center;
+  color: white;
+  width: 320px;
+  height: 320px;
+  border-radius: 10px;
+  border: 1px solid #fff;
+  box-shadow: 0 0 10px cyan;
+}
+
+.teks {
+  font-family: Cherry Cream Soda;
+  position: relative;
+  top: -65px;
+  color: #2fedff;
+  text-shadow: 2px 6px solid #fffd22;
+}
+
+.teks2 {
+  font-family: Cherry Cream Soda;
+  position: relative;
+  top: 265px;
+}
